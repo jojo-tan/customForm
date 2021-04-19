@@ -1,0 +1,27 @@
+body,html{
+    overflow: hidden;
+}
+body,html,ul,li,div,p,span,a,h1,h2,h3,h4,h5,h6,button,textarea,input{
+    margin: 0;
+    padding: 0;
+}
+div,p,span,h1,h2,h3,h4,h5,h6{
+    box-sizing: border-box;
+}
+ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    display: block;
+}  
+button,textarea,input{
+    outline: none;
+}
+.clear{
+    float: none !important;
+    clear: both !important;
+    height: 0 !important;
+}

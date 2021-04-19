@@ -1,0 +1,58 @@
+{
+  "id": "2012860",
+  "name": "自定义界面yuan'su",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "792219",
+      "name": "text7-文本",
+      "font_class": "text7wenben",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5184440",
+      "name": "单选",
+      "font_class": "danxuan1",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "15872055",
+      "name": "多选选中2",
+      "font_class": "duoxuanxuanzhong2",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1254739",
+      "name": "21输入",
+      "font_class": "21shuru",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "2552662",
+      "name": "公共-日期 ",
+      "font_class": "riqi1",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "11121523",
+      "name": "下拉列表框",
+      "font_class": "xialaliebiaokuang",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "13515738",
+      "name": "扫一扫",
+      "font_class": "saoyisao1",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    }
+  ]
+}

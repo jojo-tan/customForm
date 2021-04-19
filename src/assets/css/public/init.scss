@@ -1,0 +1,29 @@
+// 主色
+$color_dominant: #E35115;
+
+// 辅色
+$color_auxiliary: #DD2813;
+
+// 行为相关颜色
+$color_primary: #007aff;
+$color_success: #4cd964;
+$color_warning: #f0ad4e;
+$color_error: #dd524d;
+
+// 文字颜色
+$text_color:#333;//基本色
+$text_color_inverse:#fff;//反色
+$text_color_grey:#999;//辅助灰色，如加载更多的提示信息
+$text_color_placeholder: #808080;
+$text_color_disable:#c0c0c0;
+
+// 背景颜色
+$bg_color:#ffffff;
+$bg_color_grey:#f8f8f8;
+$bg_color_hover:#f1f1f1;//点击状态颜色
+$bg_color_mask:rgba(0, 0, 0, 0.4);//遮罩颜色
+
+// 边框颜色
+$border_color:#c8c7cc;
+
+// 文字尺寸
